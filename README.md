@@ -8,5 +8,6 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 - DivMMC on board
 - 2 x AY-3-8910 turbo sound
 - Kempston Joystick port
+- RS-232 and Midi Port
 - Composite and RGB PAL output
 ![Board](https://github.com/DonSuperfo/ZX128-Replica/blob/main/ZX128%20Replica.jpg)
