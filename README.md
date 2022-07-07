@@ -1,6 +1,6 @@
 # ZX128-Replica
 This is a ZX Spectrum 128 replica in the form of ZX Spectrum 48 PCB. It use original ULA or any replacement.
-PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
+PCB is the same size as ZX Spectrum 48, can be fit in 48K or 48K+ case.
 
 - PCB version 3, 
 - 32K ROM and 128K RAM
