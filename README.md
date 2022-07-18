@@ -11,3 +11,6 @@ PCB is the same size as ZX Spectrum 48, can be fit in 48K or 48K+ case.
 - RS-232 and Numeric Keypad Port
 - Composite and RGB PAL output
 ![Board](https://github.com/DonSuperfo/ZX128-Replica/blob/main/ZX128%20Replica.jpg)
+If you want to get PCB, you can get it from PCBWay through this link:
+
+  <a href="https://www.pcbway.com/project/shareproject/ZX128_Replica_86e2ab61.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
