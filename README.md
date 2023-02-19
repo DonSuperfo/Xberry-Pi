@@ -1,15 +1,16 @@
-# ZX128-Replica
-This is a ZX Spectrum 128 replica in the form of ZX Spectrum 48 PCB. It use original ULA or any replacement.
-PCB is the same size as ZX Spectrum 48, can be fit in 48K or 48K+ case.
+# Xberry Pi ZX Spectrum Next Clone
+This is a ZX Spectrum Next Clone in the form of Raspberry Pi. It is 100% compattible with ZX Specrum Next.
+PCB is the same size as Raspberry Pi Board, can be fit in almost Raspberry Pi 3+ case with small modification.
 
-- PCB version 3, 
-- 32K ROM and 128K RAM
-- Can use original ULA, vLA128, SLAM128 or SLAM128+ 
-- DivMMC on board
-- 2 x AY-3-8910 turbo sound
-- Kempston Joystick port
-- RS-232 and Numeric Keypad Port
-- Composite and RGB PAL output
+- PCB version 4C, 
+- 2MB RAM, 128MBIT Flash ROM
+- RTC onboard with battery backup 
+- Header for ESP-8266-01 Module
+- HDMI port
+- VGA/RGB and Audio via MiniDin9 
+- 1 Joystick port
+- PS/2 port for Keyboard/Mouse
+- Header for connect to Matrix Keyboard
 ![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204a-5.jpg)
 If you want to get PCB, you can get it from PCBWay through this link:
 
