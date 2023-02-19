@@ -1,6 +1,6 @@
 # Xberry Pi : ZX Spectrum Next Clone
 This is a ZX Spectrum Next Clone in the form of Raspberry Pi. It is 100% compattible with ZX Specrum Next (https://www.specnext.com/).
-PCB is the same size as Raspberry Pi Board, can be fit in almost Raspberry Pi 3+ case with small modification.
+PCB is the same size as Raspberry Pi Board, can be fit in Raspberry Pi 3+ case with small modification.
 
 - PCB version 4C, 
 - 2MB RAM, 128MBIT Flash ROM
