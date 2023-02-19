@@ -10,7 +10,7 @@ PCB is the same size as ZX Spectrum 48, can be fit in 48K or 48K+ case.
 - Kempston Joystick port
 - RS-232 and Numeric Keypad Port
 - Composite and RGB PAL output
-![Board](https://github.com/DonSuperfo/ZX128-Replica/blob/main/ZX128%20Replica.jpg)
+![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204a-5.jpg)
 If you want to get PCB, you can get it from PCBWay through this link:
 
   <a href="https://www.pcbway.com/project/shareproject/ZX128_Replica_86e2ab61.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
