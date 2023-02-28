@@ -13,6 +13,10 @@ PCB is the same size as Raspberry Pi Board, can be fit in Raspberry Pi 3+ case w
 - Header for connect to Matrix Keyboard
 ![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204a-5.jpg)
 
+![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204a-4.jpg)
+
+![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204a-3.jpg)
+
 ![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204a-6.jpg)
 
 
