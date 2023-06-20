@@ -11,7 +11,7 @@ PCB is the same size as Raspberry Pi Board, can be fit in Raspberry Pi 3+ case w
 - 1 Joystick port
 - PS/2 port for Keyboard/Mouse
 - Header for connect to Matrix Keyboard
-![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204a-5.jpg)
+![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204c-0.JPG)
 
 ![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204a-4.jpg)
 
