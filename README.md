@@ -30,6 +30,8 @@ PCB is the same size as Raspberry Pi Board, can be fit in Raspberry Pi 3+ case w
 
 ![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204a%20Game%20HAT.jpg)
 
+![Board](https://github.com/DonSuperfo/Xberry-Pi/blob/main/Xberry%20Issue%204e.jpg)
+
 
 
 
